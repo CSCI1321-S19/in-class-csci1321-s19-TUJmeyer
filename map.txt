@@ -1,0 +1,19 @@
+3 //# of rooms
+CSI 388
+a dimly lit room with nerds in it
+2 //# of lines
+chair
+A place to sit.
+Computer
+It may or may not work.
+-1,-1,-1,1,-1,-1 // -1 not allowed to go , 1 the room 1
+Hallway
+Long dark hallway that connects places.
+0
+-1,-1,0,2,-1,-1
+Broadway
+Another big hall.
+1
+table
+where students put stuff
+-1,-1,-1,1,-1,-1
