@@ -1,5 +1,0 @@
-package Puyoo
-
-class puyo {
-  
-}
